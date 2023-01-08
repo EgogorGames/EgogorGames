@@ -1,5 +1,6 @@
-### EgogorGames
+🎮 EgogorGames 🧊
+====================
 
-.. image:: https://img.shields.io/pypi/dd/esycord.svg
-   :target: https://pypi.python.org/pypi/esycord
+.. image:: https://i.imgur.com/oTHVouX.png
+   :target: https://github.com/EgogorGames
    :alt: PyPI downloads
